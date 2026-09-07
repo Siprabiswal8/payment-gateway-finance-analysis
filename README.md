@@ -10,7 +10,7 @@
 
 Payment gateways process large transaction volumes, but **high transaction volume does not necessarily translate into strong profitability**.
 
-This project analyzes **100,000 payment transactions across 445 merchants from January–December 2025** to understand how transaction volume translates into gateway revenue and, ultimately, net revenue after processing costs, refunds, and chargebacks.
+This project analyzes **100,000 payment transactions across 445 merchants from January–December 2025**, combining transaction-level payment data with merchant-level attributes to evaluate revenue, unit economics, profitability, and post-transaction risk.
 
 The project combines:
 
