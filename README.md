@@ -35,6 +35,20 @@ The analysis is designed around the questions a **Finance Manager, FP&A analyst,
 
 ---
 
+## 📊 Dashboard Preview
+
+### Executive Finance Overview
+![Executive Finance Overview](dashboard/screenshots/01_Executive_Finance_Overview.png)
+
+### Revenue & Merchant Performance
+![Revenue & Merchant Performance](dashboard/screenshots/02_Revenue_Merchant_Performance.png)
+
+### Payments & Operations
+![Payments & Operations](dashboard/screenshots/03_Payments_Operations.png)
+
+### Risk & Exceptions
+![Risk & Exceptions](dashboard/screenshots/04_Risk_Exceptions.png)
+
 ## 🎯 Business Objective
 
 The core objective is to evaluate the **financial health and unit economics of the payment gateway**.
