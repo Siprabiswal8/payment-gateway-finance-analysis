@@ -1,0 +1,446 @@
+merchant_id,merchant_name,merchant_category,volume_weight,refund_risk_multiplier,chargeback_risk_multiplier
+M00001,Pinnacle Kart,E-commerce,0.12049,1.808,0.74
+M00002,Umbra Commerce,E-commerce,0.060053,0.555,0.591
+M00003,Quanta Kart,E-commerce,0.05401,0.991,1.367
+M00004,Lyra Kart,E-commerce,0.03965,4.0,0.877
+M00005,Dhruva Commerce,E-commerce,0.0333,2.152,1.123
+M00006,Lumos Shoppe,E-commerce,0.021308,0.987,2.109
+M00007,Trilok Shoppe,E-commerce,0.02221,0.897,1.897
+M00008,Zephyr Retail,E-commerce,0.019562,0.498,0.499
+M00009,Vespera Commerce,E-commerce,0.017861,0.832,0.533
+M00010,Varuna Kart,E-commerce,0.013583,1.077,1.369
+M00011,Amora Kart,E-commerce,0.016285,0.623,1.935
+M00012,Ojas Kart,E-commerce,0.016257,1.772,0.492
+M00013,Quill Trends,E-commerce,0.010833,0.684,0.701
+M00014,Quarry Shoppe,E-commerce,0.013416,0.861,0.828
+M00015,Ferro Outlet,E-commerce,0.009942,4.0,0.725
+M00016,Umber Trends,E-commerce,0.008549,0.71,0.533
+M00017,Juniper Shoppe,E-commerce,0.012836,0.412,0.375
+M00018,Calyx Kart,E-commerce,0.010051,0.288,1.691
+M00019,Orbix Kart,E-commerce,0.007831,0.394,2.715
+M00020,Ivora Trends,E-commerce,0.00828,3.644,0.683
+M00021,Dhruva Outlet,E-commerce,0.009874,1.615,0.894
+M00022,Pinnacle Commerce,E-commerce,0.008497,1.294,1.179
+M00023,Pinnacle Mart,E-commerce,0.009473,1.877,0.925
+M00024,Chandrika Retail,E-commerce,0.006843,4.0,1.065
+M00025,Bellara Retail,E-commerce,0.009288,0.537,0.887
+M00026,Ember Shoppe,E-commerce,0.007262,0.58,1.457
+M00027,Dovetail Outlet,E-commerce,0.008488,1.07,1.012
+M00028,Ursa Kart,E-commerce,0.007054,1.238,1.274
+M00029,Ivora Retail,E-commerce,0.008533,2.07,3.624
+M00030,Lyra Outlet,E-commerce,0.005071,0.369,0.291
+M00031,Ivora Shoppe,E-commerce,0.006262,0.515,1.186
+M00032,Ursa Retail,E-commerce,0.005602,1.125,1.663
+M00033,Rivet Trends,E-commerce,0.005728,0.781,0.535
+M00034,Jyotsna Mart,E-commerce,0.006926,1.045,2.24
+M00035,Verdant Trends,E-commerce,0.004458,1.106,1.042
+M00036,Jalsa Bazaar,E-commerce,0.004513,0.812,0.665
+M00037,Ursa Mart,E-commerce,0.006459,0.589,1.508
+M00038,Vespera Retail,E-commerce,0.006347,1.466,1.462
+M00039,Nectar Kart,E-commerce,0.004531,1.659,1.264
+M00040,Yamuna Shoppe,E-commerce,0.004317,1.171,0.538
+M00041,Suvarna Outlet,E-commerce,0.005213,0.611,1.06
+M00042,Helix Mart,E-commerce,0.00404,0.612,0.629
+M00043,Kelvin Bazaar,E-commerce,0.004408,0.405,0.368
+M00044,Ravanti Bazaar,E-commerce,0.004738,0.415,0.764
+M00045,Kelvin Shoppe,E-commerce,0.004916,1.105,0.431
+M00046,Lumos Bazaar,E-commerce,0.005321,1.56,1.25
+M00047,Quill Commerce,E-commerce,0.004669,2.185,0.73
+M00048,Tidewater Commerce,E-commerce,0.004264,1.839,1.796
+M00049,Xantha Retail,E-commerce,0.004052,2.136,0.612
+M00050,Arvix Trends,E-commerce,0.004797,0.933,0.917
+M00051,Madhuban Retail,E-commerce,0.003815,0.59,1.029
+M00052,Tamira Mart,E-commerce,0.003865,0.403,2.623
+M00053,Granite Trends,E-commerce,0.004096,2.874,4.0
+M00054,Bhumi Outlet,E-commerce,0.003652,0.926,1.568
+M00055,Elmwood Outlet,E-commerce,0.003331,0.485,0.442
+M00056,Sarova Outlet,E-commerce,0.00426,0.445,1.398
+M00057,Fenix Mart,E-commerce,0.003419,0.625,0.63
+M00058,Zorvin Commerce,E-commerce,0.003922,1.264,0.905
+M00059,Opaline Retail,E-commerce,0.003328,1.566,2.831
+M00060,Nimbus Mart,E-commerce,0.004212,1.409,1.388
+M00061,Ravanti Shoppe,E-commerce,0.003449,0.635,2.639
+M00062,Dhruva Bazaar,E-commerce,0.003689,1.888,1.084
+M00063,Galexa Bazaar,E-commerce,0.003476,1.484,1.824
+M00064,Rosewood Shoppe,E-commerce,0.003172,1.171,0.726
+M00065,Xantha Bazaar,E-commerce,0.002965,2.311,0.371
+M00066,Fathom Mart,E-commerce,0.003601,0.76,0.835
+M00067,Nimbus Commerce,E-commerce,0.003681,0.695,4.0
+M00068,Zephyr Mart,E-commerce,0.003019,2.352,1.136
+M00069,Trilok Trends,E-commerce,0.002852,0.625,0.898
+M00070,Ember Mart,E-commerce,0.002645,0.358,0.25
+M00071,Perga Kart,E-commerce,0.003535,1.326,1.804
+M00072,Dovetail Shoppe,E-commerce,0.003858,0.987,1.395
+M00073,Galexa Outlet,E-commerce,0.002672,1.258,0.804
+M00074,Nectar Bazaar,E-commerce,0.002819,0.928,0.939
+M00075,Solstice Outlet,E-commerce,0.003226,1.262,0.696
+M00076,Ilvara Commerce,E-commerce,0.003649,0.824,0.343
+M00077,Ilvara Shoppe,E-commerce,0.003234,1.621,0.503
+M00078,Harbour Retail,E-commerce,0.002255,1.391,0.872
+M00079,Yamuna Trends,E-commerce,0.003325,1.222,1.015
+M00080,Lyra Commerce,E-commerce,0.002393,0.423,0.481
+M00081,Northwind Commerce,E-commerce,0.002394,1.37,1.118
+M00082,Varuna Outlet,E-commerce,0.002934,0.797,0.838
+M00083,Jalsa Kart,E-commerce,0.003127,3.153,2.19
+M00084,Pinnacle Trends,E-commerce,0.002609,0.743,0.645
+M00085,Nakshatra Retail,E-commerce,0.003242,2.272,1.338
+M00086,Kestrel Retail,E-commerce,0.002703,1.151,1.267
+M00087,Quanta Commerce,E-commerce,0.002186,1.39,1.155
+M00088,Perga Commerce,E-commerce,0.002494,0.859,1.235
+M00089,Larkspur Trends,E-commerce,0.002685,1.972,1.721
+M00090,Ferro Commerce,E-commerce,0.003261,2.275,2.039
+M00091,Prisma Kart,E-commerce,0.00306,1.038,1.491
+M00092,Bhumi Kart,E-commerce,0.002643,0.459,0.366
+M00093,Nectar Mart,E-commerce,0.00196,0.332,3.386
+M00094,Umber Kart,E-commerce,0.002523,0.96,0.25
+M00095,Rosewood Outlet,E-commerce,0.002563,0.67,2.183
+M00096,Kelvin Commerce,E-commerce,0.002567,0.954,1.386
+M00097,Trilok Commerce,E-commerce,0.00276,1.8,0.742
+M00098,Ember Outlet,E-commerce,0.002737,1.643,0.801
+M00099,Jalsa Outlet,E-commerce,0.002995,0.565,0.442
+M00100,Ironwood Outlet,E-commerce,0.002231,1.265,0.685
+M00101,Rosewood Kart,E-commerce,0.002103,0.899,3.9
+M00102,Jalsa Shoppe,E-commerce,0.002689,4.0,0.712
+M00103,Dovetail Trends,E-commerce,0.002614,1.802,0.666
+M00104,Kalindi Retail,E-commerce,0.002598,0.528,1.455
+M00105,Tidewater Trends,E-commerce,0.002594,2.542,1.809
+M00106,Jalsa Mart,E-commerce,0.002234,0.34,0.476
+M00107,Quill Kart,E-commerce,0.001765,1.249,0.504
+M00108,Citrin Commerce,E-commerce,0.002472,0.885,1.664
+M00109,Varuna Shoppe,E-commerce,0.002266,1.478,0.788
+M00110,Lyra Trends,E-commerce,0.002655,1.09,0.367
+M00111,Ojas Mart,E-commerce,0.002419,0.475,3.288
+M00112,Meghna Shoppe,E-commerce,0.00164,3.157,1.001
+M00113,Onyx Outlet,E-commerce,0.002331,0.572,0.623
+M00114,Vanta Bazaar,E-commerce,0.001685,0.831,1.163
+M00115,Tidewater Retail,E-commerce,0.002116,0.885,1.38
+M00116,Fenix Outlet,E-commerce,0.001584,0.804,0.804
+M00117,Umber Retail,E-commerce,0.002196,0.84,1.18
+M00118,Jyotsna Kart,E-commerce,0.002073,2.352,1.001
+M00119,Tamira Outlet,E-commerce,0.001854,0.741,1.13
+M00120,Elara Trends,E-commerce,0.002127,0.377,1.159
+M00121,Quill Bazaar,E-commerce,0.002461,2.036,1.491
+M00122,Dhruva Trends,E-commerce,0.001569,1.29,0.903
+M00123,Tamira Shoppe,E-commerce,0.001939,3.116,0.926
+M00124,Vanta Retail,E-commerce,0.002245,2.265,0.816
+M00125,Trilok Kart,E-commerce,0.001696,1.17,0.864
+M00126,Kestrel Trends,E-commerce,0.001507,0.727,1.072
+M00127,Onyx Mart,E-commerce,0.002177,0.698,0.25
+M00128,Suvarna Shoppe,E-commerce,0.001735,1.854,1.268
+M00129,Fathom Shoppe,E-commerce,0.00232,1.16,0.837
+M00130,Juniper Trends,E-commerce,0.002348,0.994,1.349
+M00131,Yamuna Outlet,E-commerce,0.00143,2.725,2.893
+M00132,Juniper Kart,E-commerce,0.001975,0.914,1.011
+M00133,Xantha Shoppe,E-commerce,0.001725,1.177,0.343
+M00134,Arvix Retail,E-commerce,0.002014,0.537,1.524
+M00135,Ravanti Commerce,E-commerce,0.002192,0.643,0.852
+M00136,Ursa Outlet,E-commerce,0.001777,0.368,1.689
+M00137,Lyra Bazaar,E-commerce,0.001531,0.478,0.568
+M00138,Harbour Commerce,E-commerce,0.001733,1.453,0.645
+M00139,Juniper Commerce,E-commerce,0.002021,0.913,2.504
+M00140,Nimbus Trends,E-commerce,0.002223,0.617,0.42
+M00141,Pallava Commerce,E-commerce,0.002169,1.509,1.603
+M00142,Vespera Trends,E-commerce,0.002054,0.849,0.453
+M00143,Bhumi Retail,E-commerce,0.002052,1.872,0.863
+M00144,Solstice Retail,E-commerce,0.001419,2.389,0.952
+M00145,Umber Outlet,E-commerce,0.001788,0.451,0.706
+M00146,Opaline Kart,E-commerce,0.001626,1.248,0.384
+M00147,Fathom Trends,E-commerce,0.001565,1.778,1.209
+M00148,Yamuna Kart,E-commerce,0.002091,0.502,0.648
+M00149,Opaline Mart,E-commerce,0.001735,0.562,1.645
+M00150,Bhumi Trends,E-commerce,0.001715,1.809,1.271
+M00151,Dovetail Retail,E-commerce,0.001396,1.142,1.092
+M00152,Orbix Retail,E-commerce,0.001517,0.699,1.53
+M00153,Quanta Mart,E-commerce,0.001491,1.187,0.782
+M00154,Hansa Mart,E-commerce,0.001506,1.217,0.498
+M00155,Elara Mart,E-commerce,0.001467,0.549,1.418
+M00156,Meridian Commerce,E-commerce,0.001551,1.894,2.375
+M00157,Meghna Kart,E-commerce,0.001327,0.689,0.813
+M00158,Ravanti Mart,E-commerce,0.001781,0.642,0.574
+M00159,Suvarna Kart,E-commerce,0.001449,0.888,1.295
+M00160,Elmwood Shoppe,E-commerce,0.00152,2.751,1.099
+M00161,Nectar Shoppe,E-commerce,0.001272,1.404,0.522
+M00162,Kelvin Outlet,E-commerce,0.001883,0.754,0.578
+M00163,Terra Bazaar,E-commerce,0.001891,0.804,1.314
+M00164,Citrin Trends,E-commerce,0.001425,1.172,0.671
+M00165,Thalia Commerce,E-commerce,0.001386,2.824,2.515
+M00166,Meridian Retail,E-commerce,0.00184,0.873,2.731
+M00167,Kestrel Outlet,E-commerce,0.001301,1.225,1.338
+M00168,Chandrika Shoppe,E-commerce,0.001889,0.578,1.084
+M00169,Kalindi Trends,E-commerce,0.001374,0.762,0.54
+M00170,Wystan Mart,E-commerce,0.001338,2.33,1.511
+M00171,Northwind Retail,E-commerce,0.001286,0.372,0.455
+M00172,Sarova Kart,E-commerce,0.001773,0.728,0.937
+M00173,Thalia Bazaar,E-commerce,0.001567,2.009,2.216
+M00174,Pinnacle Bazaar,E-commerce,0.001408,0.848,0.738
+M00175,Ivora Bazaar,E-commerce,0.001636,3.239,0.783
+M00176,Ojas Retail,E-commerce,0.001389,1.102,2.007
+M00177,Quill Shoppe,E-commerce,0.001427,0.533,1.082
+M00178,Harbour Outlet,E-commerce,0.001445,0.968,0.658
+M00179,Meridian Outlet,E-commerce,0.001777,1.441,1.495
+M00180,Thalia Outlet,E-commerce,0.001506,1.357,4.0
+M00181,Ember Telecom,Utility/Bill-pay,0.413965,1.185,0.593
+M00182,Zephyr Telecom,Utility/Bill-pay,0.116494,0.501,1.381
+M00183,Fenix Grid,Utility/Bill-pay,0.085901,0.773,2.378
+M00184,Wystan Services,Utility/Bill-pay,0.056011,1.238,0.766
+M00185,Bhumi Energy,Utility/Bill-pay,0.034018,0.438,0.838
+M00186,Pallava Services,Utility/Bill-pay,0.032483,0.337,0.718
+M00187,Madhuban Telecom,Utility/Bill-pay,0.028632,1.096,0.955
+M00188,Calyx Utilities,Utility/Bill-pay,0.019579,0.807,0.902
+M00189,Quill Gas,Utility/Bill-pay,0.016788,1.926,1.582
+M00190,Bellara Utilities,Utility/Bill-pay,0.014267,2.012,1.417
+M00191,Meridian Telecom,Utility/Bill-pay,0.012893,1.219,0.672
+M00192,Solstice Power,Utility/Bill-pay,0.014816,1.088,1.014
+M00193,Meghna Energy,Utility/Bill-pay,0.013424,1.603,0.848
+M00194,Ferro Services,Utility/Bill-pay,0.009238,0.763,0.411
+M00195,Elmwood Utilities,Utility/Bill-pay,0.007689,0.776,2.005
+M00196,Perga Grid,Utility/Bill-pay,0.007703,1.118,1.009
+M00197,Chandrika Energy,Utility/Bill-pay,0.007253,2.033,0.571
+M00198,Tamira Gas,Utility/Bill-pay,0.006605,2.038,0.72
+M00199,Xantha Power,Utility/Bill-pay,0.007817,0.829,0.784
+M00200,Dovetail Grid,Utility/Bill-pay,0.006711,1.194,0.431
+M00201,Zorvin Gas,Utility/Bill-pay,0.006412,1.063,2.219
+M00202,Amora Broadband,Utility/Bill-pay,0.006241,0.274,0.745
+M00203,Larkspur Energy,Utility/Bill-pay,0.004431,0.949,1.304
+M00204,Ursa Telecom,Utility/Bill-pay,0.005842,2.025,0.708
+M00205,Terra Grid,Utility/Bill-pay,0.004723,0.996,0.658
+M00206,Juniper Services,Utility/Bill-pay,0.005218,0.976,0.51
+M00207,Verdant Grid,Utility/Bill-pay,0.00491,0.494,1.242
+M00208,Bellara Telecom,Utility/Bill-pay,0.004873,0.25,0.526
+M00209,Arvix Gas,Utility/Bill-pay,0.003465,1.129,0.458
+M00210,Galexa Services,Utility/Bill-pay,0.003384,0.723,1.42
+M00211,Thalia Services,Utility/Bill-pay,0.003848,1.38,1.328
+M00212,Volara Services,Utility/Bill-pay,0.002598,0.764,1.109
+M00213,Bhumi Utilities,Utility/Bill-pay,0.00279,1.506,1.153
+M00214,Jalsa Broadband,Utility/Bill-pay,0.002618,1.631,0.809
+M00215,Varuna Power,Utility/Bill-pay,0.003611,0.715,0.95
+M00216,Dhruva Services,Utility/Bill-pay,0.003559,1.006,0.873
+M00217,Lyra Energy,Utility/Bill-pay,0.002446,1.771,0.925
+M00218,Larkspur Telecom,Utility/Bill-pay,0.002001,1.476,1.009
+M00219,Bellara Energy,Utility/Bill-pay,0.00203,0.326,0.585
+M00220,Rivet Telecom,Utility/Bill-pay,0.002831,0.872,1.46
+M00221,Fenix Energy,Utility/Bill-pay,0.001837,2.677,0.722
+M00222,Bhumi Broadband,Utility/Bill-pay,0.001843,0.886,1.306
+M00223,Dhruva Gas,Utility/Bill-pay,0.002236,2.186,0.858
+M00224,Varuna Gas,Utility/Bill-pay,0.00172,2.72,1.765
+M00225,Ferro Grid,Utility/Bill-pay,0.002247,1.685,2.144
+M00226,Tamira Tiffins,Food Delivery,0.281989,0.751,0.959
+M00227,Ursa Diner,Food Delivery,0.125636,0.414,1.522
+M00228,Quanta Kitchen,Food Delivery,0.084462,0.357,0.788
+M00229,Fathom Eats,Food Delivery,0.044813,1.493,1.859
+M00230,Juniper Diner,Food Delivery,0.039997,1.451,0.65
+M00231,Galexa Foods,Food Delivery,0.025415,0.291,1.035
+M00232,Amora Foods,Food Delivery,0.028677,1.169,1.286
+M00233,Meghna Table,Food Delivery,0.018668,0.831,1.031
+M00234,Quarry Tiffins,Food Delivery,0.023631,1.258,0.833
+M00235,Chandrika Foods,Food Delivery,0.022481,1.164,1.094
+M00236,Volara Foods,Food Delivery,0.018936,1.769,1.596
+M00237,Ferro Eats,Food Delivery,0.018016,1.439,1.2
+M00238,Rivet Diner,Food Delivery,0.015306,0.376,0.467
+M00239,Orbix Bites,Food Delivery,0.015917,1.844,0.805
+M00240,Pinnacle Foods,Food Delivery,0.011149,0.255,0.739
+M00241,Veloce Kitchen,Food Delivery,0.011387,1.128,1.37
+M00242,Varuna Kitchen,Food Delivery,0.01271,0.529,0.467
+M00243,Meghna Diner,Food Delivery,0.009458,0.93,1.329
+M00244,Ravanti Eats,Food Delivery,0.011093,1.46,0.868
+M00245,Ember Meals,Food Delivery,0.007185,1.54,1.568
+M00246,Sarova Bites,Food Delivery,0.009006,1.632,0.511
+M00247,Kalindi Eats,Food Delivery,0.006581,0.978,0.604
+M00248,Citrin Tiffins,Food Delivery,0.00897,0.68,1.269
+M00249,Galexa Meals,Food Delivery,0.006669,1.028,0.888
+M00250,Elmwood Diner,Food Delivery,0.005515,0.555,1.119
+M00251,Sarova Diner,Food Delivery,0.007685,3.337,3.305
+M00252,Quanta Table,Food Delivery,0.006676,0.704,0.75
+M00253,Veloce Tiffins,Food Delivery,0.00505,0.467,0.394
+M00254,Elara Kitchen,Food Delivery,0.005333,1.259,1.168
+M00255,Tidewater Eats,Food Delivery,0.004792,0.524,0.324
+M00256,Tamira Eats,Food Delivery,0.004191,0.477,0.832
+M00257,Chandrika Kitchen,Food Delivery,0.004017,1.754,1.578
+M00258,Kalindi Bites,Food Delivery,0.005777,1.273,1.569
+M00259,Meridian Tiffins,Food Delivery,0.004494,1.083,1.839
+M00260,Meghna Foods,Food Delivery,0.005909,0.915,1.148
+M00261,Lumos Foods,Food Delivery,0.003627,0.73,1.487
+M00262,Kestrel Diner,Food Delivery,0.004023,0.744,1.756
+M00263,Meghna Bites,Food Delivery,0.003902,1.024,0.846
+M00264,Dhruva Table,Food Delivery,0.003331,0.981,0.549
+M00265,Ivora Meals,Food Delivery,0.00379,0.902,1.578
+M00266,Onyx Diner,Food Delivery,0.003097,0.935,2.257
+M00267,Umbra Tiffins,Food Delivery,0.004799,0.403,1.481
+M00268,Dovetail Eats,Food Delivery,0.002912,2.451,2.138
+M00269,Ravanti Bites,Food Delivery,0.004568,1.43,0.592
+M00270,Dovetail Bites,Food Delivery,0.00335,0.843,1.381
+M00271,Northwind Tiffins,Food Delivery,0.003941,1.631,0.978
+M00272,Tamira Foods,Food Delivery,0.003618,0.62,0.672
+M00273,Jyotsna Eats,Food Delivery,0.002619,0.595,1.278
+M00274,Suvarna Bites,Food Delivery,0.0038,1.109,0.727
+M00275,Meridian Bites,Food Delivery,0.002866,0.789,1.436
+M00276,Pallava Bites,Food Delivery,0.00273,1.726,1.205
+M00277,Galexa Kitchen,Food Delivery,0.003826,1.165,2.015
+M00278,Verdant Tiffins,Food Delivery,0.002969,2.231,0.681
+M00279,Larkspur Diner,Food Delivery,0.002981,0.668,0.804
+M00280,Rosewood Table,Food Delivery,0.00233,0.381,1.295
+M00281,Dovetail Tiffins,Food Delivery,0.002646,2.18,0.335
+M00282,Madhuban Diner,Food Delivery,0.002375,1.321,1.055
+M00283,Madhuban Meals,Food Delivery,0.002816,1.089,1.008
+M00284,Quill Bites,Food Delivery,0.002229,1.096,2.055
+M00285,Ferro Tiffins,Food Delivery,0.003264,4.0,1.071
+M00286,Fenix Labs,Subscription,0.187594,1.138,0.265
+M00287,Ojas Prime,Subscription,0.085857,0.861,1.39
+M00288,Yamuna Studios,Subscription,0.070883,1.077,1.265
+M00289,Pallava Studios,Subscription,0.051819,0.89,0.658
+M00290,Jalsa Labs,Subscription,0.039457,1.361,0.25
+M00291,Tidewater Plus,Subscription,0.032227,1.449,0.547
+M00292,Madhuban Stream,Subscription,0.022914,1.391,1.477
+M00293,Tidewater Studios,Subscription,0.019115,0.87,1.99
+M00294,Nakshatra Media,Subscription,0.020331,0.717,0.496
+M00295,Calyx Plus,Subscription,0.016071,1.218,1.13
+M00296,Bhumi Plus,Subscription,0.018421,1.611,0.606
+M00297,Jalsa Cloud,Subscription,0.01702,0.456,0.502
+M00298,Ojas Cloud,Subscription,0.018442,0.506,1.335
+M00299,Ravanti Digital,Subscription,0.014381,1.343,0.613
+M00300,Fathom Studios,Subscription,0.011835,1.163,1.643
+M00301,Trilok Stream,Subscription,0.011677,1.031,0.789
+M00302,Lumos Digital,Subscription,0.014376,0.455,0.255
+M00303,Chandrika Prime,Subscription,0.008452,0.648,1.634
+M00304,Opaline Studios,Subscription,0.009546,0.618,0.802
+M00305,Suvarna Labs,Subscription,0.011958,1.041,0.536
+M00306,Ferro Media,Subscription,0.010521,1.961,1.323
+M00307,Orbix Digital,Subscription,0.007019,0.565,0.992
+M00308,Wystan Studios,Subscription,0.006787,1.74,1.732
+M00309,Ojas Digital,Subscription,0.01051,0.688,1.841
+M00310,Juniper Media,Subscription,0.006837,1.363,0.705
+M00311,Veloce Studios,Subscription,0.008531,0.895,1.759
+M00312,Meridian Studios,Subscription,0.008778,1.669,0.753
+M00313,Prisma Cloud,Subscription,0.00593,0.792,0.896
+M00314,Xantha Digital,Subscription,0.007277,0.761,0.977
+M00315,Umber Prime,Subscription,0.007343,0.659,0.819
+M00316,Nectar Stream,Subscription,0.006938,1.14,1.196
+M00317,Vespera Stream,Subscription,0.004978,2.524,1.098
+M00318,Rivet Labs,Subscription,0.004831,1.083,1.085
+M00319,Ilvara Cloud,Subscription,0.006898,1.494,4.0
+M00320,Rosewood Digital,Subscription,0.006235,1.051,0.683
+M00321,Umbra Studios,Subscription,0.005473,1.114,0.82
+M00322,Tamira Prime,Subscription,0.005218,0.444,1.219
+M00323,Terra Studios,Subscription,0.006457,0.69,1.098
+M00324,Kalindi Digital,Subscription,0.006005,0.448,0.562
+M00325,Veloce Media,Subscription,0.004426,1.833,0.717
+M00326,Rosewood Media,Subscription,0.006098,1.527,2.536
+M00327,Opaline Prime,Subscription,0.005561,1.174,1.307
+M00328,Sarova Studios,Subscription,0.005413,0.482,3.639
+M00329,Dhruva Prime,Subscription,0.005644,0.784,1.194
+M00330,Chandrika Stream,Subscription,0.00561,0.597,0.399
+M00331,Ivora Prime,Subscription,0.005273,2.858,0.575
+M00332,Ilvara Digital,Subscription,0.005515,0.583,3.452
+M00333,Helix Media,Subscription,0.005157,1.689,0.469
+M00334,Arvix Digital,Subscription,0.004912,1.336,0.383
+M00335,Bellara Labs,Subscription,0.003557,1.857,1.621
+M00336,Quill Digital,Subscription,0.004355,1.236,0.992
+M00337,Madhuban Cloud,Subscription,0.004473,1.994,0.76
+M00338,Dovetail Cloud,Subscription,0.004988,0.979,2.125
+M00339,Bellara Stream,Subscription,0.004797,0.898,0.539
+M00340,Tidewater Stream,Subscription,0.004354,1.239,0.616
+M00341,Nakshatra Plus,Subscription,0.003311,0.982,1.961
+M00342,Quill Cloud,Subscription,0.004153,0.89,0.645
+M00343,Jyotsna Stream,Subscription,0.002888,1.372,1.154
+M00344,Thalia Cloud,Subscription,0.003344,1.36,0.962
+M00345,Umber Digital,Subscription,0.003197,1.454,1.011
+M00346,Ember Cloud,Subscription,0.004184,1.766,2.007
+M00347,Amora Plus,Subscription,0.003752,0.547,0.842
+M00348,Meridian Prime,Subscription,0.003216,0.72,0.77
+M00349,Trilok Studios,Subscription,0.003681,1.24,0.518
+M00350,Madhuban Prime,Subscription,0.003483,1.36,1.154
+M00351,Suvarna Cloud,Subscription,0.003674,1.815,0.587
+M00352,Jalsa Stream,Subscription,0.00296,1.41,0.858
+M00353,Kalindi Plus,Subscription,0.002874,0.866,0.797
+M00354,Nectar Digital,Subscription,0.002477,0.927,0.595
+M00355,Orbix Cloud,Subscription,0.002336,2.714,0.453
+M00356,Opaline Cloud,Subscription,0.003707,1.322,0.647
+M00357,Prisma Media,Subscription,0.002294,0.451,0.744
+M00358,Meghna Plus,Subscription,0.002842,1.392,0.83
+M00359,Zephyr Media,Subscription,0.003043,1.735,1.418
+M00360,Elmwood Media,Subscription,0.003314,0.913,0.969
+M00361,Helix Stream,Subscription,0.002652,0.507,1.2
+M00362,Rosewood Prime,Subscription,0.002702,0.569,0.698
+M00363,Ivora Studios,Subscription,0.003425,0.731,1.331
+M00364,Dhruva Plus,Subscription,0.00211,0.68,0.595
+M00365,Terra Cloud,Subscription,0.002515,0.404,0.752
+M00366,Citrin Digital,Subscription,0.003322,1.911,0.598
+M00367,Elmwood Prime,Subscription,0.002913,0.931,0.651
+M00368,Kalindi Stream,Subscription,0.002893,0.716,1.613
+M00369,Arvix Media,Subscription,0.002927,1.376,0.998
+M00370,Vanta Labs,Subscription,0.002223,0.515,2.536
+M00371,Granite Prime,Subscription,0.002046,2.32,1.659
+M00372,Vanta Media,Subscription,0.003043,1.069,0.502
+M00373,Quanta Studios,Subscription,0.002597,1.39,0.88
+M00374,Zephyr Studios,Subscription,0.002576,0.807,1.275
+M00375,Quill Media,Subscription,0.002248,0.439,2.227
+M00376,Harbour Stays,Travel,0.258616,0.733,2.172
+M00377,Fathom Holidays,Travel,0.113918,0.838,0.7
+M00378,Rivet Getaways,Travel,0.082328,0.891,0.25
+M00379,Ferro Expeditions,Travel,0.050921,0.586,0.771
+M00380,Thalia Stays,Travel,0.036076,0.337,0.695
+M00381,Terra Voyages,Travel,0.033876,1.249,0.935
+M00382,Kalindi Holidays,Travel,0.021794,0.48,1.867
+M00383,Volara Holidays,Travel,0.021837,3.765,0.745
+M00384,Nakshatra Stays,Travel,0.021965,0.676,0.778
+M00385,Ursa Voyages,Travel,0.014941,1.911,0.743
+M00386,Amora Holidays,Travel,0.016668,1.198,0.36
+M00387,Quarry Getaways,Travel,0.017893,1.208,1.745
+M00388,Ironwood Tours,Travel,0.016624,1.46,1.324
+M00389,Ilvara Voyages,Travel,0.012142,1.196,0.376
+M00390,Varuna Getaways,Travel,0.011332,1.854,0.58
+M00391,Trilok Stays,Travel,0.010085,1.297,0.301
+M00392,Xantha Expeditions,Travel,0.01109,1.053,0.493
+M00393,Nectar Holidays,Travel,0.012061,4.0,2.689
+M00394,Kestrel Stays,Travel,0.007704,0.399,2.238
+M00395,Arvix Expeditions,Travel,0.008939,0.598,0.774
+M00396,Verdant Voyages,Travel,0.010526,0.77,0.715
+M00397,Jyotsna Expeditions,Travel,0.010007,0.73,1.934
+M00398,Ojas Stays,Travel,0.008124,0.571,3.088
+M00399,Nimbus Stays,Travel,0.007766,0.772,0.51
+M00400,Arvix Travels,Travel,0.007632,1.31,1.175
+M00401,Hansa Tours,Travel,0.005934,1.024,1.572
+M00402,Elara Travels,Travel,0.007258,0.603,0.836
+M00403,Orbix Stays,Travel,0.005805,2.074,0.381
+M00404,Jyotsna Travels,Travel,0.00541,0.819,3.094
+M00405,Terra Stays,Travel,0.006005,1.828,0.376
+M00406,Fathom Expeditions,Travel,0.005494,1.859,0.653
+M00407,Jalsa Stays,Travel,0.00461,0.888,0.849
+M00408,Onyx Journeys,Travel,0.00547,1.022,1.271
+M00409,Madhuban Getaways,Travel,0.005695,1.293,2.121
+M00410,Sarova Expeditions,Travel,0.006216,0.51,0.489
+M00411,Dhruva Voyages,Travel,0.004718,1.546,0.741
+M00412,Galexa Journeys,Travel,0.003913,0.734,0.836
+M00413,Trilok Expeditions,Travel,0.004103,0.802,1.363
+M00414,Arvix Holidays,Travel,0.003916,0.637,0.944
+M00415,Kelvin Voyages,Travel,0.004931,1.11,0.903
+M00416,Wystan Journeys,Travel,0.004011,1.1,1.317
+M00417,Madhuban Tours,Travel,0.005175,1.292,2.024
+M00418,Elara Voyages,Travel,0.003178,1.287,1.564
+M00419,Pallava Expeditions,Travel,0.004517,0.773,0.419
+M00420,Pallava Getaways,Travel,0.004505,2.681,0.551
+M00421,Kestrel Voyages,Travel,0.00467,0.58,1.534
+M00422,Hansa Expeditions,Travel,0.004548,1.6,0.488
+M00423,Umber Travels,Travel,0.004235,0.884,0.664
+M00424,Veloce Journeys,Travel,0.003594,1.709,1.357
+M00425,Veloce Stays,Travel,0.002648,1.119,0.761
+M00426,Wystan Holidays,Travel,0.003494,1.345,2.297
+M00427,Tamira Stays,Travel,0.003759,0.843,1.209
+M00428,Nectar Expeditions,Travel,0.003409,0.59,0.975
+M00429,Sarova Tours,Travel,0.002638,0.522,0.801
+M00430,Juniper Travels,Travel,0.00306,1.384,1.459
+M00431,Perga Voyages,Travel,0.003405,0.482,2.283
+M00432,Ironwood Holidays,Travel,0.002333,1.469,1.33
+M00433,Granite Stays,Travel,0.003284,1.214,1.176
+M00434,Veloce Travels,Travel,0.002219,0.507,0.637
+M00435,Umber Getaways,Travel,0.0023,0.412,1.223
+M00436,Ursa Expeditions,Travel,0.002123,0.664,0.869
+M00437,Perga Getaways,Travel,0.002725,1.024,1.366
+M00438,Orbix Voyages,Travel,0.002283,1.23,1.023
+M00439,Northwind Travels,Travel,0.003271,0.672,1.011
+M00440,Volara Journeys,Travel,0.002182,0.454,2.199
+M00441,Quanta Stays,Travel,0.002368,0.834,1.058
+M00442,Pinnacle Voyages,Travel,0.002369,1.902,1.113
+M00443,Zephyr Stays,Travel,0.002294,0.474,0.354
+M00444,Vespera Journeys,Travel,0.002502,1.193,0.858
+M00445,Juniper Voyages,Travel,0.002559,0.25,0.563
