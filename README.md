@@ -111,14 +111,21 @@ Understanding:
 
 ## 📊 Dataset
 
+This project uses two complementary datasets:
+
+| Dataset | Purpose |
+|---|---|
+| `payment_gateway_transactions.csv` | Transaction-level analysis of payment volume, revenue, costs, refunds, chargebacks, and net revenue |
+| `merchants.csv` | Merchant-level analysis used for exploratory analysis and merchant risk profiling |
+
 | Attribute | Details |
 |---|---|
 | **Transactions** | 100,000 |
 | **Merchants** | 445 |
 | **Period** | January 1 – December 31, 2025 |
-| **Granularity** | Transaction-level |
+| **Granularity** | Transaction-level + merchant-level |
 
-The dataset contains fields covering:
+The `payment_gateway_transactions.csv` dataset contains transaction-level fields covering:
 
 - Transaction information
 - Transaction amount
@@ -133,9 +140,11 @@ The dataset contains fields covering:
 - Chargeback loss
 - Net revenue
 
+The `merchants.csv` dataset contains merchant-level attributes used for exploratory analysis and risk profiling.
+
 ### Transaction Status
 
-The `status` field contains:
+The `status` field in `payment_gateway_transactions.csv` contains:
 
 - `Success`
 - `Refunded`
@@ -700,7 +709,8 @@ Finance and commercial teams should monitor:
 payment-gateway-finance-analysis/
 │
 ├── data/
-│   └── payment_gateway_transactions.csv
+│   ├── payment_gateway_transactions.csv
+│   └── merchants.csv
 │
 ├── notebooks/
 │   └── payment_gateway_eda.ipynb
